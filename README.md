@@ -1,2 +1,2 @@
 # AICT-Proposal-2
-this is the interface sir,
+this is the github activity
